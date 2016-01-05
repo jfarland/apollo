@@ -1,1 +1,1 @@
-This is the location for the development of the apollo project. The goal of the apollo project is to help facilitate advanced analytics by laying standard groundwork for analysis using energy data. 
+### This is the location for the development of the apollo project. The goal of the apollo project is to help facilitate advanced analytics by laying standard groundwork for analysis in the energy industry. 
