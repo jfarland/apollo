@@ -1,0 +1,21 @@
+Field,Label,DataClass,Schema
+ID,Modeling Unit Identification Number,IDS,String
+MODEL_UNIT,Modeling Unit Label,IDS,String
+USE,"Primary Variable of Analysis (e.g. kWh, Volts, Temp)",VAR,Float
+TINDX,Datetime Index,TIME,Datetime
+HOUR,Time part of TINDX,TIME,Time
+DATE,Date Part of TINDX,TIME,Date 
+LAT,Lattitude,GIS,Double
+LONG,Longitude,GIS,Double
+ZIP,5-digit zip code,GIS,String
+CITY,City,GIS,String
+COUNTY,County ,GIS,String
+STATE,State,GIS,String
+HEIR1,Heirarchy Level 1,HEIR,String
+HEIR2,Heirarchy Level 2,HEIR,String
+HEIR3,Heirarchy Level 3,HEIR,String
+HEIR4,Heirarchy Level 4,HEIR,String
+FT1,Feature 1,FT,Misc.
+FT2,Feature 2,FT,Misc.
+FT3,Feature 3,FT,Misc.
+FT4,Feature 4,FT,Misc.
