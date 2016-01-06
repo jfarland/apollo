@@ -1,12 +1,17 @@
-###List of Data Sources
+List of Data Sources
+==================================
 
-## Weather / Atmospheric
+1. Weather / Atmospheric
+----------------------------------
 
-- http://www.wunderground.com/
+  * http://www.wunderground.com/
 
-## Energy Usage
+2. Energy Usage
+----------------------------------
 
-## Geospatial
+3. Geospatial
+----------------------------------
 
-## Demographic 
+4. Demographic 
+----------------------------------
 
